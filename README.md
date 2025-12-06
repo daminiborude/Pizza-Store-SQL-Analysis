@@ -1,9 +1,9 @@
-# 🍕 Pizza-Store-SQL-Analysis
+## 🍕 Pizza-Store-SQL-Analysis
 This project is based on a pizza store’s sales data. I used SQL to clean the data, create tables, write queries, and find useful business insights. 
 This helped me understand real-world data analysis using SQL.
 
 
-# 🎯 Project Objectives
+#### 🎯 Project Objectives
 - Understand total orders and total revenue.
 - Find the most popular pizza sizes and categories.
 - Identify top-selling pizza types.
@@ -12,14 +12,14 @@ This helped me understand real-world data analysis using SQL.
 - Convert raw data into meaningful business insights.
 
 
-# 🗂️ Dataset
+#### 🗂️ Dataset
 - orders        : Order ID, date, and time              
 - order_details : Pizza ID and quantity per order       
 - pizza         : Pizza size and price                  
 - pizza_types   : Pizza name, category, and ingredients
 
 
-# 📊 Key Insights
+#### 📊 Key Insights
 - Medium and Large pizzas were ordered the most.
 - Classic category had the highest demand.
 - Top 5 pizza types contributed major revenue.
