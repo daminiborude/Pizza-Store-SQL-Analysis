@@ -16,7 +16,7 @@ This helped me understand real-world data analysis using SQL.
 - orders        : Order ID, date, and time              
 - order_details : Pizza ID and quantity per order       
 - pizza         : Pizza size and price                  
-- pizza_types   : Pizza name, category, and ingredients
+- pizza_types   : Pizza name, category, and ingredients 
 
 
 #### 📊 Key Insights
